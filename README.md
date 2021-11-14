@@ -14,7 +14,8 @@ You can either provide each input in new line or multiple space-separated inputs
 Enter 'q' or Ctrl+D to quit!
 
 Here is a demo for 4+5 + 8-4 - 1+2
-    '4 5 + 8 4 - 1 2 + - +' in postfix notation
+    '4 5 + 8 4 - 1 2 + - +' in postfix notation.
+
     > 4 5 +
     9
     > 8 4 -
@@ -25,3 +26,5 @@ Here is a demo for 4+5 + 8-4 - 1+2
     10
     > q
     Thank you for using our service
+
+---------------------------
